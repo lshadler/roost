@@ -12,7 +12,7 @@
   "dependencies": {
     "@material-ui/core": "4.9.7",
     "@material-ui/icons": "4.9.1",
-    "framer-motion": "1.9.1",
+    "framer-motion": "1.11.1",
     "fuse.js": "5.0.7-beta",
     "google-maps-react": "2.0.2",
     "next": "9.4.4",
