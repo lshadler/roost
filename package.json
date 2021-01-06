@@ -14,7 +14,7 @@
     "@material-ui/icons": "4.9.1",
     "framer-motion": "1.9.1",
     "fuse.js": "5.0.7-beta",
-    "google-maps-react": "2.0.2",
+    "google-maps-react": "2.0.6",
     "next": "9.4.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
