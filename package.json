@@ -16,8 +16,8 @@
     "fuse.js": "5.0.7-beta",
     "google-maps-react": "2.0.2",
     "next": "9.4.4",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "react-ga": "2.7.0"
   },
   "devDependencies": {
